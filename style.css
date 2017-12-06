@@ -1,0 +1,40 @@
+.navbar{
+
+	padding: 13px;
+	padding-right: 25px;
+	background-color: black;
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+.navbar-brand{
+
+	font-size: 23px;
+}
+
+	
+}
+
+.container-fluid{
+
+	background-image: url(assets/images/wood.jpg);
+	background-size: cover;
+}
+.container{
+
+	margin: 0px;
+	margin-top: 0px;
+	width: 100%;
+	padding: 0px;
+}
+.about{
+	text-align: justify;
+	
+}
+.img-thumbnail{
+	margin-top: 15px;
+}
+.row{
+
+	margin: 20px;
+}
