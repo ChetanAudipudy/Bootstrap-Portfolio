@@ -1,3 +1,7 @@
+body{
+
+	font-family: Montserrat, sans-serif;
+}
 .navbar{
 
 	padding: 13px;
@@ -5,6 +9,7 @@
 	background-color: black;
 	margin-bottom: 0px;
 	border-radius: 0px;
+	font-family: Montserrat, sans-serif;
 }
 
 .navbar-brand{
@@ -19,6 +24,7 @@
 
 	background-image: url(assets/images/wood.jpg);
 	background-size: cover;
+	font-family: Montserrat, sans-serif;
 }
 .container{
 
@@ -27,14 +33,42 @@
 	width: 100%;
 	padding: 0px;
 }
-.about{
+.well-md{
 	text-align: justify;
 	
 }
 .img-thumbnail{
 	margin-top: 15px;
 }
+.row .row-skills{
+
+	background-color: black;
+}
 .row{
 
 	margin: 20px;
+}
+.bg-1{
+	font-family: Montserrat, sans-serif;
+	background-color: #efefef;
+	margin-left: 38px;
+	margin-right: 38px;
+	margin-bottom: 25px;
+	padding-bottom: 40px;
+}
+
+.bg-1 .social{
+	font-family: Montserrat, sans-serif;
+	margin: 30px;
+
+}
+.bg-4{
+	background-color: #2f2f2f;
+	color: white;
+	padding: 25px;
+	text-align: center;
+}
+.bg-4 .foot{
+
+	padding-top: 10px;
 }
